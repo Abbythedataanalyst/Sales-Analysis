@@ -1,16 +1,16 @@
 # Sales-Analysis
 
 ## Project Overview
-A thorough analysis of sales data, with the goal of uncovering valuable insights to improve strategic decision-making.
+A detailed analysis of Meriskills' sales data. The goal of this analysis is to uncover valuable insights that would be pivotal for making strategic business decisions. 
 
-## Purpose
-Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
+## Implementational strategy and Tasks.
+Analyze data to dentify trends over the course of the entire timeframe of the dataset. Discover top-selling products, and determine revenue metrics for business decision-making.
 
 ## Data source
-The primary dataset utilized for this analysis is the "Sales Data" dataset obtained from the Meriskills datasets file. This file was provided to me as part of a project during my internship.
+The primary dataset utilized for this analysis is the "Sales Data" dataset obtained from the Meriskills Corp.
 
-## Tools used
-Power Bi - Building Visuals
+## Technologies used
+Power BI - Data Visualization.
 
 ## Data Transformation
 - Data loading and inspection
@@ -19,10 +19,10 @@ Power Bi - Building Visuals
 - Column splitting
 
 ## Expository Data Analysis(EDA)
-During the exploratory data analysis phase, I thoroughly examined the sales data to address key questions, such as:
-- Sales trends over time
-- Best-selling products
-- Revenue metrics such as total sales and profit margins
+During the exploratory data analysis phase, I examined the sales data to address key questions, such as:
+- What was the sales trends over time ?
+- Which products were the best-selling products ?
+- Using Revenue metrics such as total sales and profit margins, which products made the most sales and what was their profit margins ?
 
 <img width="596" alt="Sales Analysis Visualization" src="https://github.com/Abbythedataanalyst/Sales-Analysis/assets/158297673/89972fb5-1158-4463-b14e-d2493dc89568">
 
@@ -34,7 +34,6 @@ Based on the findings, it is recommended that the company invest resources in pr
 
 ### Limitations
 Despite the comprehensive analysis conducted, it is important to acknowledge certain limitations.
-The analysis is based solely on the available sales data and does not account for external factors that may influence sales performance, such as market dynamics or competitor actions.Therefore, caution should be exercised in drawing definitive conclusions, and further research may be warranted to validate findings and address any data gaps.
-
+The analysis is based solely on the available sales data and does not account for external factors that may influence sales performance, such as market dynamics or competitor actions. Therefore, further analysis may be conducted to address any data gaps.
 
 
